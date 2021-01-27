@@ -1,6 +1,6 @@
 # AltClub GRUB Theme
 
-**Source Code:**
+**Source Code:** https://github.com/Koi-foo/grub-theme-altclub
 
 ## Summary:
 The GRUB2 bootloader theme supports all used Linux distributions.
